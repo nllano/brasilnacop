@@ -1,4 +1,4 @@
-# Projeto final MBA Jornalismo de dados
+# Fala muito e faz pouco — Projeto final
 
 Fonte de alguns dos maiores biomas preservados do mundo, o Brasil é um dos principais atores mundiais no enfrentamento às mudanças climáticas. Com 60% da Amazônia em seu território, a política ambiental do país é e será decisiva para mitigar os efeitos, que já estão sendo sentidos em todos os continentes. 
 
