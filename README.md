@@ -1,6 +1,10 @@
-Projeto final MBA Jornalistmo de dados
+#Projeto final MBA Jornalistmo de dados
 
-## Fontes discursos
+Fonte de alguns dos maiores biomas preservados do mundo, o Brasil é um dos principais atores mundiais no enfrentamento às mudanças climáticas. Com 60% da Amazônia em seu território, a política ambiental do país é e será decisiva para mitigar os efeitos, que já estão sendo sentidos em todos os continentes. O intuito é disponibilizar um repositório no qual especialistas e o público em geral possam consultar as mudanças no discurso ambiental brasileiro oficial ao longo das últimas décadas, para comparar o que foi dito com o que foi feito de fato em termos de programas e ações concretas. Este projeto tem como objetivo criar esse repositório, juntamente com uma ferramenta de busca para que determinados assuntos discutidos pelo Brasil dentro das COPs (as conferências das Nações Unidas sobre mudanças climáticas) possam ser consultados e o discurso ao longo dos anos seja mapeado.
+
+Projeto em andamento.
+
+#### Fontes discursos
 
 | Edição | Ano  | Cidade       | País          | Agente                      | Cargo                           | url                                      | url_arquivo                                    |
 |--------|------|--------------|---------------|-----------------------------|---------------------------------|------------------------------------------|------------------------------------------------|
