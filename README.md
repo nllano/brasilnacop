@@ -23,8 +23,7 @@ Projeto em andamento.
 | COP18  | 2012 | Doha         | Qatar         | Izabella Teixeira           | Ministra do Meio Ambiente       | https://tinyurl.com/cop-18-2012-1        | https://tinyurl.com/cop-18-2012-1              |
 | COP17  | 2011 | Durban       | África do Sul | Izabella Teixeira           | Ministra do Meio Ambiente       | https://tinyurl.com/cop-17-2011-1        | https://tinyurl.com/cop-17-2011-arquivo        |
 | COP16  | 2010 | Cancún       | México        | Izabella Teixeira           | Ministra do Meio Ambiente       | https://tinyurl.com/cop-16-2010-1        | https://tinyurl.com/cop-16-2010-arquivo        |
-| COP15  | 2009 | Copenhagen   | Dinamarca     | Luiz Ignâncio Lula da Silva | Presidente da República         | https://tinyurl.com/cop-15-2009-1        | https://tinyurl.com/cop-15-2009-arquivo        |
-| COP14  | 2008 | Poznan       | Polônia       | Carlos Minc                 | Ministro do Meio Ambiente       |                                          |                                                |
+| COP15  | 2009 | Copenhagen   | Dinamarca     | Luiz Ignâncio Lula da Silva | Presidente da República         | https://tinyurl.com/cop-15-2009-1        | https://tinyurl.com/cop-15-2009-arquivo        |                                               |
 | COP13  | 2007 | Bali         | Indonésia     | Celso Amorim                | Ministro de Relações Exteriores | https://tinyurl.com/cop-13-2007-1        | https://tinyurl.com/cop-13-2007-arquivo        |
 | COP11  | 2005 | Montreal     | Canada        | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-11-2005-1        | https://tinyurl.com/cop-11-2005-arquivo        |
 | COP10  | 2004 | Buenos Aires | Argentina     | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-10-2004-1        | https://tinyurl.com/cop-10-2004-arquivo        |
