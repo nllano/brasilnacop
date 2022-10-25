@@ -27,6 +27,3 @@ Projeto em andamento.
 | COP13  | 2007 | Bali         | Indonésia     | Celso Amorim                | Ministro de Relações Exteriores | https://tinyurl.com/cop-13-2007-1        | https://tinyurl.com/cop-13-2007-arquivo        |
 | COP11  | 2005 | Montreal     | Canada        | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-11-2005-1        | https://tinyurl.com/cop-11-2005-arquivo        |
 | COP10  | 2004 | Buenos Aires | Argentina     | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-10-2004-1        | https://tinyurl.com/cop-10-2004-arquivo        |
-| COP8   | 2002 | Nova Delhi   | Índia         | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-8-2002-1         | https://tinyurl.com/cop-8-2002-arquivo         |
-| COP8   | 2002 | Nova Delhi   | Índia         | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-8-2002-encerra-1 | https://tinyurl.com/cop-8-2002-encerra-arquivo |
-
