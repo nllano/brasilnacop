@@ -11,7 +11,7 @@ A diferen√ßa entre aquilo que nossos governantes falam e o que realmente fazem √
 #### Applicativo e site do projeto
 [Aplicativo](https://brasilnascops.streamlit.app/)
 
-[Site](www.brasilnascops.nfshost.com]
+[Site](www.brasilnascops.nfshost.com)
 
 #### Uso do aplicativo
 
