@@ -6,6 +6,20 @@ O eixo central do projeto é uma ferramenta (instruções e links logo abaixo) q
 
 A diferença entre aquilo que nossos governantes falam e o que realmente fazem é abissmal. Perante os eleitores, os organismos internacionais e os holofotes, os governos parecem estar em total sincronia com os chamados urgentes dos cientistas, ativistas e comunidades engajadas na luta ambiental. No entanto, a realidade é que o mundo continua avançando vertiginosamente para um aumento de temperatura maior do que 1.5°C até 2035, e que tanto os governos quanto as indústrias têm feito pouco para enfrentar a maior crise da humanidade.
 
+---
+
+#### Applicativo e site do projeto
+[Aplicativo](https://brasilnascops.streamlit.app/)
+[Site](www.brasilnascops.nfshost.com]
+
+#### Uso do aplicativo
+
+#### Instalação e atualização 
+
+#### Arquivos e código
+
+#### Limitações
+
 #### Fontes e links arquivados dos discursos
 
 | Edição | Ano  | Cidade       | País          | Agente                      | Cargo                           | url                                      | url_arquivo                                    |
@@ -25,3 +39,7 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 | COP13  | 2007 | Bali         | Indonésia     | Celso Amorim                | Ministro de Relações Exteriores | https://tinyurl.com/cop-13-2007-1        | https://tinyurl.com/cop-13-2007-arquivo        |
 | COP11  | 2005 | Montreal     | Canada        | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-11-2005-1        | https://tinyurl.com/cop-11-2005-arquivo        |
 | COP10  | 2004 | Buenos Aires | Argentina     | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-10-2004-1        | https://tinyurl.com/cop-10-2004-arquivo        |
+
+#### Passos futuros
+
+#### Créditos
