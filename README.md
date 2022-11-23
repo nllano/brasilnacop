@@ -1,4 +1,4 @@
-# Brasil na(s) Conferências das Parte(s)
+# Brasil na Conferência das Partes
 
 O projeto Brasil na COP visa coletar, classificar e disponibilizar os discursos do governo brasileiro dos últimos 20 anos apresentados no segmento de alto nível e na sessão plenária das Conferências das Partes (COP), órgão supremo da Convenção-Quadro das Nações Unidas sobre as Mudanças Climáticas (UNFCCC, na sigla em inglês), ou apenas Convenção do Clima, como ficou conhecida. Aprovada há 30 anos durante a ECO-92, a Convenção passou a vigorar em 1994 - e a ter sua implementação fiscalizada a partir de 1995, com a primeira COP Climática, realizada em Berlim.
 
@@ -8,20 +8,22 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 
 ---
 
-#### Applicativo e site do projeto
+### Applicativo e site do projeto
 [Aplicativo](https://brasilnascops.streamlit.app/)
 
 [Site](www.brasilnascops.nfshost.com)
 
-#### Uso do aplicativo
+### Uso do aplicativo
 
-#### Instalação e atualização 
+### Categorias
 
-#### Arquivos e código
+### Instalação e atualização 
 
-#### Limitações
+### Arquivos e código
 
-#### Fontes e links arquivados dos discursos
+### Limitações
+
+### Fontes e links arquivados dos discursos
 
 | Edição | Ano  | Cidade       | País          | Agente                      | Cargo                           | url                                      | url_arquivo                                    |
 |--------|------|--------------|---------------|-----------------------------|---------------------------------|------------------------------------------|------------------------------------------------|
@@ -41,6 +43,9 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 | COP11  | 2005 | Montreal     | Canada        | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-11-2005-1        | https://tinyurl.com/cop-11-2005-arquivo        |
 | COP10  | 2004 | Buenos Aires | Argentina     | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-10-2004-1        | https://tinyurl.com/cop-10-2004-arquivo        |
 
-#### Passos futuros
+### Passos futuros
 
-#### Créditos
+### Créditos
+
+### Agradecimentos
+
