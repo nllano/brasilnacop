@@ -9,8 +9,8 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 ---
 
 #### Applicativo e site do projeto
-Para usar o aplicativo, clique [aqui](https://brasilnascops.streamlit.app/)
-No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos. 
+<p>Para usar o aplicativo, clique [aqui.](https://brasilnascops.streamlit.app/)</p>
+<p>No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos.</p>
 
 #### Categorias analisadas
 <ul>
@@ -46,16 +46,10 @@ No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodo
 #### Instalação e uso 
 
 #### Arquivos e código
-Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto. 
-O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está _hosteado_ no serviço Streamlit Cloud.
+<p>Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
+<p>O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está _hosteado_ no serviço Streamlit Cloud.</p>
 
-#### Limitações
-<p>Em termos metodológicos, é importante salientar que nosso esquema de categorização e codificação manual pode conter possíveis omissões e seleção de tópicos não relevantes em termos estatísticos. Em outras palavras, a metodologia aplicada não segue cálculos estatísticos robustos.</p>
-<p>Adicionalmente, o uso exclusivo de discursos proferidos no segmento do alto nível e na sessão plenária não permite determinar ou inferir posicionamentos estatísticos e analiticamente sólidos sobre as posições climáticas. Como mencionamos anteriormente, nosso objetivo, reduzido em seu escopo, é ter um quadro de referência textual que permita acompanhar, fiscalizar e contrastar aquilo que o governo prega e aquilo que faz.</p>
- <p>Devido à pouca documentação disponível sobre as edições anteriores à COP 10, o nosso recorte temporal foi alterado: 2004-2021, excluindo 2006 (COP12) e 2008 (COP14). Embora exista uma perda de conteúdo significativo para análise, devido à ausência dos documentos correspondentes a onze edições do evento, consideramos que o período analisado cobre significativamente as conferências realizadas no século XXI, permitindo apontar as discussões contemporâneas na política climática brasileira. Reforçamos que nosso objetivo não é realizar uma análise temporal das mudanças discursivas do governo brasileiro nas COPs. Portanto, a utilidade do projeto é válida e se mantém.</p>
- <p>Nosso objetivo é manter o repositório com dados atualizados e continuar a busca dos discursos ausentes —aguardamos a resposta dos recursos e pedidos feitos através da LAI. Pretendemos expandir o escopo deste projeto, incluindo documentos adicionais ao corpus, tanto do segmento de Alto Nível, assim como outro tipo de documentação textual vinculada às COP, como submissões das delegações, relatórios nacionais, para consolidar o material como boa fonte de consultas para o público geral e especialistas.</p>
-
-### Fontes e links arquivados dos discursos
+#### Fontes e links arquivados dos discursos
 
 | Edição | Ano  | Cidade       | País          | Agente                      | Cargo                           | url                                      | url_arquivo                                    |
 |--------|------|--------------|---------------|-----------------------------|---------------------------------|------------------------------------------|------------------------------------------------|
@@ -75,9 +69,33 @@ O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em
 | COP11  | 2005 | Montreal     | Canada        | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-11-2005-1        | https://tinyurl.com/cop-11-2005-arquivo        |
 | COP10  | 2004 | Buenos Aires | Argentina     | Marina Silva                | Ministra do Meio Ambiente       | https://tinyurl.com/cop-10-2004-1        | https://tinyurl.com/cop-10-2004-arquivo        |
 
-#### Passos futuros
+#### Limitações e passos futuros
+<p>Em termos metodológicos, é importante salientar que nosso esquema de categorização e codificação manual pode conter possíveis omissões e seleção de tópicos não relevantes em termos estatísticos. Em outras palavras, a metodologia aplicada não segue cálculos estatísticos robustos.</p>
+<p>Adicionalmente, o uso exclusivo de discursos proferidos no segmento do alto nível e na sessão plenária não permite determinar ou inferir posicionamentos estatísticos e analiticamente sólidos sobre as posições climáticas. Como mencionamos anteriormente, nosso objetivo, reduzido em seu escopo, é ter um quadro de referência textual que permita acompanhar, fiscalizar e contrastar aquilo que o governo prega e aquilo que faz.</p>
+<p>Devido à pouca documentação disponível sobre as edições anteriores à COP 10, o nosso recorte temporal foi alterado: 2004-2021, excluindo 2006 (COP12) e 2008 (COP14). Embora exista uma perda de conteúdo significativo para análise, devido à ausência dos documentos correspondentes a onze edições do evento, consideramos que o período analisado cobre significativamente as conferências realizadas no século XXI, permitindo apontar as discussões contemporâneas na política climática brasileira. Reforçamos que nosso objetivo não é realizar uma análise temporal das mudanças discursivas do governo brasileiro nas COPs. Portanto, a utilidade do projeto é válida e se mantém.</p>
+<p>Nosso objetivo é manter o repositório com dados atualizados e continuar a busca dos discursos ausentes —aguardamos a resposta dos recursos e pedidos feitos através da LAI. Pretendemos expandir o escopo deste projeto, incluindo documentos adicionais ao corpus, tanto do segmento de Alto Nível, assim como outro tipo de documentação textual vinculada às COP, como submissões das delegações, relatórios nacionais, para consolidar o material como boa fonte de consultas para o público geral e especialistas.</p>
 
 #### Créditos
 
+<p>Este projeto foi desenvolvido como trabalho final do programa do <b>MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP)</b>. Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.</p> 
+<p><b>Como citar:</b> LLANO, N.; FACCIOLLA, A.; FLEURY, F. <em>Brasil nas COPs.</em> Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: https://brasilnascops.nfshost.com. Acesso em: dia/mês/ano.</p>
+<p><b>Desenvolvido por:</b></p>
+<ul>
+<li><a href="https://www.enetreseles.com" target="_blank">Nicolás Llano Linares</li><a>
+<li><a href="https://github.com/alefacciolla" target="_blank">Alexandre Facciolla</li><a>
+<li><a href="https://github.com/FabioFleury" target="_blank">Fábio Fleury</li></a>
+</ul>
+<p><b>Com orientação e colaboração de:</b></p>
+<ul>
+<li><a href="http://rodolfoviana.com.br" target="_blank">Rodolfo Viana</li><a>
+<li><a href="https://twitter.com/taisecoisas?lang=en" target="_blank">Taís Seibt</li><a>
+<li><a href="https://fiquemsabendo.com.br/nossa-equipe/" target="_blank">Bruno Morassutti</li></a>
+</ul>
+
 #### Agradecimentos
+<p>Este projeto não teria saído do papel sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti.</p>
+<p>Agradecemos a nossos colegas do programa por todas as discussões, amizade e carinho ao longo dos últimos meses.</p>
+
+    
+    
 
