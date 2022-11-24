@@ -46,7 +46,7 @@ No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodo
 #### Instalação e uso 
 
 #### Arquivos e código
-<p>Nas pastas <b>site<b> e <b>streamlit</b> você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
+<p>Nas pastas <b>site</b> e <b>streamlit</b> você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
 <p>O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está <em>hosteado</em> no serviço Streamlit Cloud.</p>
 
 #### Fontes e links arquivados dos discursos
