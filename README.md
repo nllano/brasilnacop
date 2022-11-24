@@ -46,8 +46,7 @@ No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodo
 #### Instalação e uso 
 
 #### Arquivos e código
-<p>Nas pastas <b>site</b> e <b>streamlit</b> você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
-<p>O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está <em>hosteado</em> no serviço Streamlit Cloud.</p>
+Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto. O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está _hosteado_ no serviço Streamlit Cloud.
 
 #### Fontes e links arquivados dos discursos
 
@@ -75,16 +74,17 @@ No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodo
 <p>Devido à pouca documentação disponível sobre as edições anteriores à COP 10, o nosso recorte temporal foi alterado: 2004-2021, excluindo 2006 (COP12) e 2008 (COP14). Embora exista uma perda de conteúdo significativo para análise, devido à ausência dos documentos correspondentes a onze edições do evento, consideramos que o período analisado cobre significativamente as conferências realizadas no século XXI, permitindo apontar as discussões contemporâneas na política climática brasileira. Reforçamos que nosso objetivo não é realizar uma análise temporal das mudanças discursivas do governo brasileiro nas COPs. Portanto, a utilidade do projeto é válida e se mantém.</p>
 <p>Nosso objetivo é manter o repositório com dados atualizados e continuar a busca dos discursos ausentes —aguardamos a resposta dos recursos e pedidos feitos através da LAI. Pretendemos expandir o escopo deste projeto, incluindo documentos adicionais ao corpus, tanto do segmento de Alto Nível, assim como outro tipo de documentação textual vinculada às COP, como submissões das delegações, relatórios nacionais, para consolidar o material como boa fonte de consultas para o público geral e especialistas.</p>
 ---
+
 #### Créditos
-<p>Este projeto foi desenvolvido como trabalho final do programa do <b>MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).</b></p> 
-<p><b>Como citar:</b> LLANO, N.; FACCIOLLA, A.; FLEURY, F. <em>Brasil nas COPs.</em> Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: https://brasilnascops.nfshost.com. Acesso em: dia/mês/ano.</p>
-<p><b>Desenvolvido por:</b></p>
+Este projeto foi desenvolvido como trabalho final do programa do **MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).**
+**Como citar:** LLANO, N.; FACCIOLLA, A.; FLEURY, F. _Brasil nas COPs._ Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: https://brasilnascops.nfshost.com. Acesso em: dia/mês/ano.
+**Desenvolvido por:**
 <ul>
 <li><a href="https://www.enetreseles.com" target="_blank">Nicolás Llano Linares</li><a>
 <li><a href="https://github.com/alefacciolla" target="_blank">Alexandre Facciolla</li><a>
 <li><a href="https://github.com/FabioFleury" target="_blank">Fábio Fleury</li></a>
 </ul>
-<p><b>Com orientação e colaboração de:</b></p>
+**Com orientação e colaboração de:**
 <ul>
 <li><a href="http://rodolfoviana.com.br" target="_blank">Rodolfo Viana</li><a>
 <li><a href="https://twitter.com/taisecoisas?lang=en" target="_blank">Taís Seibt</li><a>
@@ -92,8 +92,9 @@ No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodo
 </ul>
 
 #### Agradecimentos
-<p>Este projeto não teria saído do papel sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. Adicionalmente agradecemos a nossos colegas do programa, aos professores e organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo dos últimos meses.</p>
-<p>Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.</p>
+Este projeto não teria saído do papel sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
+Adicionalmente agradecemos a nossos colegas do programa, aos professores e organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo dos últimos meses.
+Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.
 
     
     
