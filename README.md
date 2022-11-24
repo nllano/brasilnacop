@@ -73,7 +73,7 @@ Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para
 <p>Nosso objetivo é manter o repositório com dados atualizados e continuar a busca dos discursos ausentes —aguardamos a resposta dos recursos e pedidos feitos através da LAI. Pretendemos expandir o escopo deste projeto, incluindo documentos adicionais ao corpus, tanto do segmento de Alto Nível, assim como outro tipo de documentação textual vinculada às COP, como submissões das delegações, relatórios nacionais, para consolidar o material como boa fonte de consultas para o público geral e especialistas.</p>
 <hr>
 
-#### Créditos
+### Créditos e agradecimentos
 Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).<br>
 <p><b>Como citar:</b> LLANO, N.; FACCIOLLA, A.; FLEURY, F. _Brasil nas COPs._ Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: https://brasilnascops.nfshost.com. Acesso em: dia/mês/ano.</p>
 <p><b>Desenvolvido por:</b></p>
@@ -91,9 +91,8 @@ Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalis
 <li><a href="https://fiquemsabendo.com.br/nossa-equipe/" target="_blank">Bruno Morassutti</li></a>
 </ul>
 
-#### Agradecimentos
-Este projeto não teria saído do papel sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
-Adicionalmente agradecemos a nossos colegas do programa, aos professores e organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo dos últimos meses.<br>
+Este projeto não teria saído executado sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
+Adicionalmente agradecemos a nossos colegas do programa, aos professores e a organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo dos últimos meses.<br>
 Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.
 
     
