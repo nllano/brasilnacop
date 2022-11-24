@@ -78,14 +78,14 @@ Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para
 #### Créditos
 Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).<br>
 <p>**Como citar:** LLANO, N.; FACCIOLLA, A.; FLEURY, F. _Brasil nas COPs._ Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: https://brasilnascops.nfshost.com. Acesso em: dia/mês/ano.</p>
-<p>**Desenvolvido por:**</p>
+<p><b>Desenvolvido por:</b></p>
 <ul>
 <li><a href="https://www.enetreseles.com" target="_blank">Nicolás Llano Linares</li><a>
 <li><a href="https://github.com/alefacciolla" target="_blank">Alexandre Facciolla</li><a>
 <li><a href="https://github.com/FabioFleury" target="_blank">Fábio Fleury</li></a>
 </ul>
     
-**Com orientação e colaboração de:**
+<b>Com orientação e colaboração de:</b>
     
 <ul>
 <li><a href="http://rodolfoviana.com.br" target="_blank">Rodolfo Viana</li><a>
