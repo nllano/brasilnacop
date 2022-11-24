@@ -9,8 +9,8 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 ---
 
 #### Applicativo e site do projeto
-<p>Para usar o aplicativo, clique [aqui.](https://brasilnascops.streamlit.app/)</p>
-<p>No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos.</p>
+Para usar o aplicativo, clique [aqui](https://brasilnascops.streamlit.app/).
+No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos.
 
 #### Categorias analisadas
 <ul>
@@ -46,7 +46,7 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 #### Instalação e uso 
 
 #### Arquivos e código
-<p>Nas pastas <b>site<b> e <b>streamlit<b> você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
+<p>Nas pastas <b>site<b> e <b>streamlit</b> você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto.</p>
 <p>O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está <em>hosteado</em> no serviço Streamlit Cloud.</p>
 
 #### Fontes e links arquivados dos discursos
