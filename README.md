@@ -46,6 +46,9 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 #### Arquivos e código
 Nas pastas **site** e **streamlit** você poder encontrar os arquivos usado para criar o site e o aplicativo do projeto. O site está feito em HTML5/CSS/JavaScript. Já o aplicativo foi desenvilvido em Python, usando a biblioteca Streamlit. O app está _hosteado_ no serviço Streamlit Cloud.
 
+#### Pedidos Lei de Acesso à Informação (LAI)
+Neste [drive](https://drive.google.com/drive/folders/1y5-SEz1zCWz4SqdfUX1SDCyBcAkQKbOL), você encontra registro das respostas aos recursos feitos pela Lei de Acesso à informação para o projeto BrasilnaCop. Os registros, a maioria em PDF, encontram-se divididos entre as respostas oficiais do processo, e os arquivos encaminhados pelos órgãos federais provocados.
+
 #### Fontes e links arquivados dos discursos
 
 | Edição | Ano  | Cidade       | País          | Agente                      | Cargo                           | url                                      | url_arquivo                                    |
@@ -91,8 +94,8 @@ Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalis
 <li><a href="https://fiquemsabendo.com.br/nossa-equipe/" target="_blank">Bruno Morassutti</li></a>
 </ul>
 
-Este projeto não teria saído executado sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
-Adicionalmente agradecemos a nossos colegas do programa, aos professores e a organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo dos últimos meses.<br>
+Este projeto não teria sido executado sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
+Adicionalmente agradecemos a nossos colegas do programa, aos professores e a organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo do último ano e meio.<br>
 Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.
 
     
