@@ -1,0 +1,178 @@
+@media screen and (max-width: 600px) {
+	p, ul, ol {
+	  font-size: 15px;
+	}
+	figcaption {
+		font-size: 8px;
+	}
+	h3 {
+		font-size: 18px;
+	}
+	iframe {
+	position: relative;
+	overflow: hidden;
+	width: 600px; 
+	height: 439px;
+	}
+
+	video {
+		position: relative;
+		overflow: hidden;
+		width: 100%; 
+		height: 439px;
+	}
+
+	video controls {
+		width: auto; 
+		height: auto;
+	}
+
+	table {
+	font-size: 10px;
+	line-break:auto;
+	}
+	.topnav a:not(:first-child) {display: none;}
+	.topnav a.icon {
+	float: right;
+	display: block;
+  	}
+}
+
+@media screen and (max-width: 600px) {
+	.topnav.responsive {position: relative;}
+	.topnav.responsive .icon {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+}
+
+.responsive-iframe {
+	position: relative;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 439px;
+  }
+
+body	{
+	font-family: 'Karla', sans-serif;
+	margin: auto;
+	padding:10px;
+	max-width: 900px;
+	color: rgb(69, 67, 67);
+	font-size:18px;
+	text-align: left;
+	background-color: #f7f7f7;
+	position: relative;
+}
+	
+.ferramenta {
+    height: 800px; 
+	width: 100%; 
+	border: none;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	display:inline-flex;
+	overflow:hidden;
+	position:relative;
+}
+
+a{
+	color:#4685e4;
+    text-decoration: none;
+}
+
+h3 {
+    text-align: left;
+}
+
+.citacoes {
+	font-style: italic;
+	text-align: right;
+
+
+}
+footer{
+	margin-top:40px;
+	text-align: center;
+    text-decoration: underline;
+}
+
+footer div a {
+	margin: 5px 5px;
+    text-align: center;
+	font-size: 15px;
+    color: #ec5555;
+}
+
+#dark-button{
+	margin-bottom: 10px;
+	position: relative;
+	left: 100%;
+	transform: translateX(-100%);
+}
+.dark{
+	color:#f9f9f9;
+	background-color: #222;
+}
+
+.imagens-texto {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: 0.5px solid #ec5555;
+	border-radius: 4px;
+}
+
+.topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+
+.topnav {
+	overflow: hidden;
+	background-color: rgb(102, 117, 131);
+  }
+  
+  .topnav a {
+	float: left;
+	display: block;
+	color: #fbf9fa;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 15px;
+  }
+  
+  .topnav a:hover {
+	background-color: #ffffffec;
+	color: #010101ec;
+  }
+  
+  .topnav a.active {
+	background-color: #ec5555;
+	color: white;
+  }
+  
+  .topnav .icon {
+	display: none;
+  }
+
+  figcaption {
+	font-style: italic;
+	text-align: center;
+	font-size: 14px;
+	margin-bottom: 30px;
+  }
+
+  .creditos {
+	font-size: 16px;
+	color: #6a6f73;
+  }
