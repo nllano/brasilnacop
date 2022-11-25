@@ -94,7 +94,7 @@ Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalis
 <li><a href="https://fiquemsabendo.com.br/nossa-equipe/" target="_blank">Bruno Morassutti</li></a>
 </ul>
 
-Este projeto não teria sido executado sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
+Este projeto não teria sido realizado sem a colaboração e generosidade de Rodolfo Viana, Taís Seibt e Bruno Morassutti. 
 Adicionalmente agradecemos a nossos colegas do programa, aos professores e a organizadora do curso, Bárbara Libório, pelas discussões, aprendizagens e carinho ao longo do último ano e meio.<br>
 Sugestões, comentários, envio de informação relevante, identificação de erros e sugestões de novas categorias são muito bem-vindas.
 
