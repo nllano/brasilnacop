@@ -9,8 +9,8 @@ A diferença entre aquilo que nossos governantes falam e o que realmente fazem �
 ---
 
 #### Applicativo e site do projeto
-- Para usar o aplicativo, clique [aqui](https://brasilnascops.streamlit.app/).<br>
-- No [site](www.brasilnascops.nfshost.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos.
+- Para usar o aplicativo, clique [aqui](https://brasilnacop.streamlit.app/).<br>
+- No [site](www.brasilnacop.com) do projeto você pode explorar a metodologia usada, o processo de coleta de dados e ler uma reportagem que exemplifica alguns dos seus usos.
 
 #### Categorias analisadas
 <ul>
