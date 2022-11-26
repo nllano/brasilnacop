@@ -78,7 +78,7 @@ Neste [drive](https://drive.google.com/drive/folders/1y5-SEz1zCWz4SqdfUX1SDCyBcA
 
 ### Créditos e agradecimentos
 Este projeto foi desenvolvido como trabalho final do programa do MBA em Jornalismo de Dados do Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).<br>
-<p><b>Como citar:</b> LLANO, N.; FACCIOLLA, A.; FLEURY, F. _Brasil nas COPs._ Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: <http://www.brasilnacop.com> Acesso em: dia/mês/ano.</p>
+<p><b>Como citar:</b> LLANO, N.; FACCIOLLA, A.; FLEURY, F. _Brasil nas COPs._ Versão 1.0. MBA Jornalismo de dados, Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa, 2022. Disponível em: http://www.brasilnacop.com. Acesso em: dia/mês/ano.</p>
 <p><b>Desenvolvido por:</b></p>
 <ul>
 <li><a href="https://www.enetreseles.com" target="_blank">Nicolás Llano Linares</li><a>
